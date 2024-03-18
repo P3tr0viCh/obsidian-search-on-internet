@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-search-on-internet",
+	"name": "Поиск в Интернете",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Поиск выделенных слов в Интернете",
+	"author": "П3тр0виЧъ",
+	"authorUrl": "https://github.com/P3tr0viCh",
+	"isDesktopOnly": false
+}
